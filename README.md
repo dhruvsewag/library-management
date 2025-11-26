@@ -13,3 +13,14 @@ Data is saved in a `.txt` file so the library persists after restarting the app.
 
 ## ▶️ How to Run
 ### Compile:
+javac src/*.java
+
+## 🛠️ Project Structure
+- `Book.java` → Model class  
+- `Library.java` → Core logic  
+- `FileHandler.java` → Load/Save data  
+- `Main.java` → Menu + user input logic
+
+## 📜 License
+MIT License
+
